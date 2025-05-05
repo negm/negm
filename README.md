@@ -11,7 +11,5 @@ Here are some ideas to get you started:
 -->
 Hola
 Data enthusiast here
-- 🔭 I’m currently working on building a new data warehouse for EMPG (recent middle east unicorn)
-- 🌱 I’m currently learning GCP for data engineering and Unity for fun
-- 👯 I’m looking to collaborate on data engineering or game dev
+
 - 📫 How to reach me: https://www.linkedin.com/in/hussein-negm
